@@ -11,4 +11,8 @@ Tareas para crear proyectos Java con buenas prácticas ágiles  Devops con la fu
 - Cambiar el estado de la tarea a "In review"
 - Revisar  los cambios del pullrequest e integrarlos en la rama principal
 - Cerrar la tarea y pasarla a estdo "Done"
+  ## Configurar un proceso de desarrollo con Maven
+  Definir un proceso de desarrollo de proyectos Java con:
+- Estructura estándar de directorios
+- Definir pom.xml  para la compilación java 17, pruebas Junit 5 y empaquetado de aplicación Java .jar
 
