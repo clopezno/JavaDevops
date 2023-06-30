@@ -25,3 +25,9 @@ replay_pid*
 
 # Descartar todos los archivos generados por maven
 javaApp/target/*
+
+#Descartar ficheros del entorno de desarrollo Eclipse
+javaApp/.classpath
+javaApp/.gitignore
+javaApp/.project
+javaApp/.settings/
