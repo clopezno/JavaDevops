@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/clopezno/JavaDevops/actions/workflows/maven.yml/badge.svg)](https://github.com/clopezno/JavaDevops/actions/workflows/maven.yml)
 # JavaDevops
 Tareas para crear proyectos Java con buenas prácticas ágiles  Devops con la funcionalidad actions de Github . Maven, cobertura de pruebas, sonarqube.
 ## Gestion de tareas y flujo de trabajo una rama por tarea en Git hub
@@ -15,4 +16,7 @@ Tareas para crear proyectos Java con buenas prácticas ágiles  Devops con la fu
   Definir un proceso de desarrollo de proyectos Java con:
 - Estructura estándar de directorios
 - Definir pom.xml  para la compilación java 17, pruebas Junit 5 y empaquetado de aplicación Java .jar
+## Configurar el desarrollo continuo con actions de Github y maven
+- Configurar plantilla actions maven maven.yml
+- Ajustar parámetros: version de jdk, localización fichero pom.xml
 
