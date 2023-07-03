@@ -19,4 +19,5 @@ Tareas para crear proyectos Java con buenas prácticas ágiles  Devops con la fu
 ## Configurar el desarrollo continuo con actions de Github y maven
 - Configurar plantilla actions maven maven.yml
 - Ajustar parámetros: version de jdk, localización fichero pom.xml
-
+## Configurar informe de cobertura de pruebas Jacoco en  maven
+- Configurar dependencias y goals de Jacoco en pom.xml
